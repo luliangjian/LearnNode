@@ -1,0 +1,6 @@
+{
+    "name": "LearnNode",
+    "bin": {
+        "HelloWorld": "HelloWorld"
+    }
+}

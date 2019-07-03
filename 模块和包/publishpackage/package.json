@@ -1,0 +1,15 @@
+{
+  "name": "publishpackage",
+  "version": "1.0.0",
+  "description": "npm包发布测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm包发布测试"
+  ],
+  "author": "卢亮键",
+  "license": "ISC",
+  "homepage": "http://www.byvoid.com/"
+}
